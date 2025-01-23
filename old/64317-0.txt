@@ -13,7 +13,6 @@ Title: The Great Gatsby
 Author: F. Scott Fitzgerald
 
 Release Date: January 17, 2021 [eBook #64317]
-[Most recently updated: January 24 2021]
 
 Language: English
 
@@ -6143,13 +6142,10 @@ He opened it at the back cover and turned it around for me to see. On
 the last flyleaf was printed the word schedule, and the date September
 12, 1906. And underneath:
 
-    Rise from bed                                  6:00      a.m.
-    Dumbell exercise and wall-scaling              6:15-6:30 ”
-    Study electricity, etc.                        7:15-8:15 ”
-    Work                                           8:30-4:30 p.m.
-    Baseball and sports                            4:30-5:00 ”
-    Practise elocution, poise and how to attain it 5:00-6:00 ”
-    Study needed inventions                        7:00-9:00 ”
+“Rise from bed 6:00 a.m. Dumbell exercise and wall-scaling 6:15-6:30”
+“Study electricity, etc. 7:15-8:15” “Work 8:30-4:30 p.m. Baseball and
+sports 4:30-5:00” “Practise elocution, poise and how to attain it
+5:00-6:00” “Study needed inventions 7:00-9:00”
 
                General Resolves
 
