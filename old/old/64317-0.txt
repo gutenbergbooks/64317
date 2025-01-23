@@ -1,11 +1,10 @@
-﻿*** START OF THE PROJECT GUTENBERG EBOOK THE GREAT GATSBY ***
 
 
 
 
-                           The Great Gatsby
-                                  by
-                          F. Scott Fitzgerald
+			   The Great Gatsby
+				  by
+			 F. Scott Fitzgerald
 
 
                            Table of Contents
@@ -24,7 +23,6 @@ IX
                               Once again
                                   to
                                  Zelda
-
 
   Then wear the gold hat, if that will move her;
   If you can bounce high, bounce for her too,
@@ -695,7 +693,7 @@ up on us and first thing you know—”
 I said lightly that I had heard nothing at all, and a few minutes
 later I got up to go home. They came to the door with me and stood
 side by side in a cheerful square of light. As I started my motor
-Daisy peremptorily called: “Wait!
+Daisy peremptorily called: “Wait!”
 
 “I forgot to ask you something, and it’s important. We heard you were
 engaged to a girl out West.”
@@ -4189,7 +4187,7 @@ frowning, and an indefinable expression, at once definitely unfamiliar
 and vaguely recognizable, as if I had only heard it described in
 words, passed over Gatsby’s face.
 
-“Come on, Daisy,” said Tom, pressing her with his hand toward Gatsby’s
+“Come on, Daisy” said Tom, pressing her with his hand toward Gatsby’s
 car. “I’ll take you in this circus wagon.”
 
 He opened the door, but she moved out from the circle of his arm.
@@ -4450,8 +4448,7 @@ fact—and he was from Biloxi, Tennessee.”
 “They carried him into my house,” appended Jordan, “because we lived
 just two doors from the church. And he stayed three weeks, until Daddy
 told him he had to get out. The day after he left Daddy died.”  After
-a moment she added as if she might have sounded irreverent, “There
-wasn’t any connection.”
+a moment she added. “There wasn’t any connection.”
 
 “I used to know a Bill Biloxi from Memphis,” I remarked.
 
@@ -6123,13 +6120,10 @@ He opened it at the back cover and turned it around for me to see. On
 the last flyleaf was printed the word schedule, and the date September
 12, 1906. And underneath:
 
-    Rise from bed                                  6:00      a.m.
-    Dumbell exercise and wall-scaling              6:15-6:30 ”
-    Study electricity, etc.                        7:15-8:15 ”
-    Work                                           8:30-4:30 p.m.
-    Baseball and sports                            4:30-5:00 ”
-    Practise elocution, poise and how to attain it 5:00-6:00 ”
-    Study needed inventions                        7:00-9:00 ”
+“Rise from bed 6:00 a.m. Dumbell exercise and wall-scaling 6:15-6:30”
+“Study electricity, etc. 7:15-8:15” “Work 8:30-4:30 p.m. Baseball and
+sports 4:30-5:00” “Practise elocution, poise and how to attain it
+5:00-6:00” “Study needed inventions 7:00-9:00”
 
                General Resolves
 
@@ -6405,4 +6399,3 @@ one fine morning—
 So we beat on, boats against the current, borne back ceaselessly into
 the past.
 
-*** END OF THE PROJECT GUTENBERG EBOOK THE GREAT GATSBY ***
